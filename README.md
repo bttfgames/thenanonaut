@@ -9,7 +9,7 @@ More levels comming soon!
 
 ## Screenshot
 
-(http://i.imgur.com/Y8qpk4b.png)
+![The Nanonaut](http://i.imgur.com/Y8qpk4b.png)
 
 A Bug to the Feature Games prototype.
 Visit [Bug to the Feature](http://bugtothefeature.tumblr.com)
